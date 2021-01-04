@@ -1,0 +1,11 @@
+6. Random Password Generator
+Creating a strong password is a tedious task.
+We can build an app to generate strong passwords randomly that contain alphabets, characters, and digits.
+The user can also copy the password so that they can directly paste it when creating the website.
+
+team members:
+حمدي محمد عبدالعال عبدالحميد 20180212 
+حمدي عبدالله يونس عبدالله 20180210
+حسين محمد زين حسين20180207
+محسن ممدوح سيد احمد20170402   
+محمد محمود حامد 20140355
